@@ -1,0 +1,2 @@
+# trumascoin
+TrumasCoin moeda
